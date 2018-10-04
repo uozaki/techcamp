@@ -50,6 +50,7 @@ gem 'compass-rails','~> 2.0'
 gem 'sprockets', '2.11.0'
 gem 'hirb'
 gem 'hirb-unicode'
+
 group :production do
   gem 'rails_12factor'
 end
